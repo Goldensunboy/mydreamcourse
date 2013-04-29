@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file alias="GridLines">Resources/GridLines.png</file>
+        <file alias="Tile0A">Resources/LandTile0A.png</file>
+        <file alias="Tile0B">Resources/LandTile0B.png</file>
+        <file alias="Tile0C">Resources/LandTile0C.png</file>
+        <file alias="Tile0D">Resources/LandTile0D.png</file>
+        <file alias="Tile0E">Resources/LandTile0E.png</file>
+        <file alias="Tile0F">Resources/LandTile0F.png</file>
+        <file alias="Tile01">Resources/LandTile01.png</file>
+        <file alias="Tile1A">Resources/LandTile1A.png</file>
+        <file alias="Tile1B">Resources/LandTile1B.png</file>
+        <file alias="Tile02">Resources/LandTile02.png</file>
+        <file alias="Tile03">Resources/LandTile03.png</file>
+        <file alias="Tile04">Resources/LandTile04.png</file>
+        <file alias="Tile05">Resources/LandTile05.png</file>
+        <file alias="Tile06">Resources/LandTile06.png</file>
+        <file alias="Tile07">Resources/LandTile07.png</file>
+        <file alias="Tile08">Resources/LandTile08.png</file>
+        <file alias="Tile09">Resources/LandTile09.png</file>
+        <file alias="Tile10">Resources/LandTile10.png</file>
+        <file alias="Tile11">Resources/LandTile11.png</file>
+        <file alias="Tile12">Resources/LandTile12.png</file>
+        <file alias="Tile13">Resources/LandTile13.png</file>
+        <file alias="Tile14">Resources/LandTile14.png</file>
+        <file alias="Tile15">Resources/LandTile15.png</file>
+        <file alias="Tile16">Resources/LandTile16.png</file>
+        <file alias="Tile17">Resources/LandTile17.png</file>
+        <file alias="Tile18">Resources/LandTile18.png</file>
+        <file alias="Tile19">Resources/LandTile19.png</file>
+        <file alias="TileBottom">Resources/LandTileBottom.png</file>
+        <file alias="TileSpacer">Resources/LandTileExtraHeight.png</file>
+        <file alias="Null">Resources/Null1.png</file>
+        <file alias="TileMap">Resources/TileMap.png</file>
+    </qresource>
+</RCC>
